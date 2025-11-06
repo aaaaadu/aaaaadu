@@ -55,8 +55,8 @@ I specialize in crafting **clean, performant, and maintainable** code, integrati
 
 ## 📊 GitHub Stats  
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshmishra11&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmishra11&layout=compact&theme=radical)
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaaaadu/&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaadu/&layout=compact&theme=radical)
 
 ---
 
