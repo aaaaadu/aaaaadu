@@ -46,6 +46,51 @@ I specialize in crafting **clean, performant, and maintainable** code, integrati
 
 ---
 
+## 📂 Featured Projects  
+
+### 🌍 [Nafa Tourism](https://www.nafatourism.com/)  
+**NAFA - Tourism Consultancy** is India’s leading specialist in travel and tourism marketing, training, and consultancy.  
+Developed a full-scale responsive website with a focus on performance, accessibility, and brand presentation for the tourism, leisure, and hospitality sector.  
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 🏗️ [Dohrniiexim](https://www.dohrniiexim.com/)  
+Corporate portfolio site built for an export–import company, highlighting product catalogues, global partnerships, and business inquiries.  
+Implemented a fast, SEO-optimized React architecture with a clean, professional design.  
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 💼 [Taxovise](https://taxovise.in/)  
+A professional consultancy platform offering tax, audit, and legal services.  
+Built with a mobile-first layout, optimized performance, and intuitive navigation to enhance user engagement.  
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
 ## 🌱 Currently Exploring  
 - Cross-framework UI generation with **Mitosis**  
 - **Qwik** for high-performance rendering  
@@ -53,10 +98,11 @@ I specialize in crafting **clean, performant, and maintainable** code, integrati
 
 ---
 
-## 📊 GitHub Stats  
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaaaadu/&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaadu/&layout=compact&theme=radical)
+// ## 📊 GitHub Stats  
+
+// ![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaaaadu/&show_icons=true&theme=radical)  
+ // ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaadu/&layout=compact&theme=radical)
 
 ---
 
