@@ -63,7 +63,7 @@ Developed a full-scale responsive website with a focus on performance, accessibi
 
 ---
 
-### 🏗️ [Dohrniiexim](https://www.dohrniiexim.com/)  
+### 🏗️ [Dohrnii Exim](https://www.dohrniiexim.com/)  
 Corporate portfolio site built for an export–import company, highlighting product catalogues, global partnerships, and business inquiries.  
 Implemented a fast, SEO-optimized React architecture with a clean, professional design.  
 
