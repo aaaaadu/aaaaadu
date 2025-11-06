@@ -96,13 +96,7 @@ Built with a mobile-first layout, optimized performance, and intuitive navigatio
 - **Qwik** for high-performance rendering  
 - Advanced **Web Performance Optimization**  
 
----
 
-
-// ## 📊 GitHub Stats  
-
-// ![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaaaadu/&show_icons=true&theme=radical)  
- // ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaadu/&layout=compact&theme=radical)
 
 ---
 
